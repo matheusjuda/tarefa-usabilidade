@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-Br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Matheus Ben-Judá">
+    <meta name="keywords" content="html, css, web, desenvolvimento, front-end">
+    <title>Meu dicionario javascript</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="js/json.js" defer></script>
+    <script src="js/main.js" defer></script>
+</head>
+
+<body>
+    <section>
+        <header>
+            <div>
+                <img src="imagem/javascript-logo.png" alt="Logo do Javascript" title="Meu Dicionário Javascript">
+            </div>
+        </header>
+        <div class="container-centro">
+            <h1>Bem-vindo ao dicionario Javascript</h1>
+            <p>Escolha um topico a baixo:</p>
+            <select title="Tópicos" id="topicos" onchange="selecionaChange()">
+            </select>
+            <br><br>
+            <label for="description" id="lbl-txt-desc">Descição</label> <br>
+            <textarea id="txt-desc" name="description" title="Descição" placeholder=""></textarea>
+        </div>
+    </section>
+
+</body>
+
+</html>

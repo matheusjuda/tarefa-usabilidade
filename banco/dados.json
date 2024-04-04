@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "titulo": "Como funciona o JavaScript",
+        "descricao": "JavaScript é uma linguagem de programação versátil e amplamente utilizada, inicialmente projetada para navegadores web, mas agora usada em muitos ambientes. É interpretada, suporta múltiplos paradigmas como orientação a objetos e funcional, e é conhecida por sua capacidade de manipular o DOM. JavaScript é assíncrono e orientado a eventos, oferecendo flexibilidade aos desenvolvedores, mas requer cuidado devido à sua tipagem dinâmica. Em resumo, é uma linguagem poderosa para desenvolvimento web e além."
+    },
+    {
+        "id": 2,
+        "titulo": "Functions no javsscript'",
+        "descricao": "Funções em JavaScript são blocos de código nomeados que realizam tarefas específicas quando chamados. Elas podem aceitar parâmetros e retornar valores. Para declarar uma função, use a palavra-chave function, seguida pelo nome da função e um bloco de código. Para chamar uma função, simplesmente use seu nome seguido por parênteses. Funções podem ser definidas com ou sem parâmetros e podem retornar valores usando a palavra-chave return. Elas também podem ser expressas como funções anônimas atribuídas a variáveis. Funções são essenciais para organizar e reutilizar o código em JavaScript."
+    },
+    {
+        "id": 3,
+        "titulo": "Sintaxe JavaScript",
+        "descricao": "Variáveis e Tipos de Dados: Declaração usando 'var', 'let' ou 'const' com tipagem dinâmica para números, strings, booleanos, arrays, objetos, funções, null e undefined. Operadores: Aritméticos ('+', '-', '*', '/'), de atribuição ('=', '+=', '-='), de comparação ('==', '!=', '===', '!==', '<', '>', '<=', '>='), lógicos ('&&', '||', '!'). Estruturas de Controle: 'if', 'else if', 'else' para tomada de decisões; loops 'for', 'while', 'do...while'; 'switch' para seleção baseada em expressões. Funções: Declaradas com 'function', podendo ter parâmetros e retornar valores com 'return', incluindo funções anônimas. Objetos e Arrays: Objetos definidos com '{}' e arrays com '[]', permitindo armazenamento de pares chave-valor e coleções ordenadas, respectivamente. Manipulação do DOM: Uso do DOM para interagir com elementos HTML, como adição, remoção e alteração de elementos. Eventos: Lidar com eventos do navegador, como cliques de mouse e pressionamentos de tecla, usando EventListeners para ouvir e responder a eventos específicos."
+    },
+    {
+        "id": 4,
+        "titulo": "Objetos em JavaScript",
+        "descricao": "Objetos em JavaScript são estruturas de dados que permitem armazenar informações relacionadas em pares chave-valor. Eles são definidos usando a sintaxe de literal de objeto {}, onde cada propriedade é uma chave única associada a um valor. As propriedades podem ser acessadas usando notação de ponto . ou colchetes [], e podem ser adicionadas, modificadas ou removidas dinamicamente. Além disso, os objetos podem conter métodos, que são funções definidas como propriedades, permitindo a execução de operações específicas relacionadas ao objeto. Os objetos são fundamentais para a organização e manipulação de dados de forma eficiente em JavaScript."
+    }
+]
