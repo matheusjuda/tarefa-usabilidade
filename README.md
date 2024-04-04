@@ -28,9 +28,9 @@ Objetivo:
 
 
 ### 💻 Resultado:
- - Acesse a lista de tarefas neste link [aqui](https:)!
+ - Acesse a lista de tarefas neste link [aqui](https://matheusjuda.github.io/tarefa-usabilidade/)!
 
- - https:imagem
+![Captura de tela 2024-04-04 163950](https://github.com/matheusjuda/tarefa-usabilidade/assets/114267214/e5961680-26a5-4792-aac7-698b8ac9bd0e)
 
 
 ##
