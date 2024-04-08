@@ -2,7 +2,7 @@ body {
     font-family: Arial;
     margin: 0;
     padding: 0;
-    background-color: #7f3eaa;
+    background-color: #7a16bd;
     color: #ffffff;
 }
 
@@ -18,19 +18,34 @@ header {
     
 }
 
+.container-centro {
+    background-color: rgba(238, 234, 3, 0.856);
+    padding: 20px 50px 40px 50px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
 h1 {
     text-align: center;
     margin-bottom: 20px;
     color: #fff;
 }
 
-select, textarea {
-    width: 90%;
+select{
+    width: 100%;
     padding: 10px;
     margin-top: 10px;
     border-radius: 10px;
 }
 
 textarea {
-    height: 150px;
+    width: 98%;
+    height: 140px;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+#lbl-txt-desc {
+    font-weight: bold;
 }

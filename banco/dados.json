@@ -6,7 +6,7 @@
     },
     {
         "id": 2,
-        "titulo": "Functions no javsscript'",
+        "titulo": "Functions no javsscript",
         "descricao": "Funções em JavaScript são blocos de código nomeados que realizam tarefas específicas quando chamados. Elas podem aceitar parâmetros e retornar valores. Para declarar uma função, use a palavra-chave function, seguida pelo nome da função e um bloco de código. Para chamar uma função, simplesmente use seu nome seguido por parênteses. Funções podem ser definidas com ou sem parâmetros e podem retornar valores usando a palavra-chave return. Elas também podem ser expressas como funções anônimas atribuídas a variáveis. Funções são essenciais para organizar e reutilizar o código em JavaScript."
     },
     {
@@ -18,5 +18,10 @@
         "id": 4,
         "titulo": "Objetos em JavaScript",
         "descricao": "Objetos em JavaScript são estruturas de dados que permitem armazenar informações relacionadas em pares chave-valor. Eles são definidos usando a sintaxe de literal de objeto {}, onde cada propriedade é uma chave única associada a um valor. As propriedades podem ser acessadas usando notação de ponto . ou colchetes [], e podem ser adicionadas, modificadas ou removidas dinamicamente. Além disso, os objetos podem conter métodos, que são funções definidas como propriedades, permitindo a execução de operações específicas relacionadas ao objeto. Os objetos são fundamentais para a organização e manipulação de dados de forma eficiente em JavaScript."
+    },
+    {
+        "id": 5,
+        "titulo": "Historia do JavaScript",
+        "descricao": "O JavaScript foi criado por Brendan Eich e lançado inicialmente como uma linguagem do lado do servidor para o Netscape Navigator 2.0 em setembro de 1995. O Internet Explorer 3.0 também adotou o suporte ao JavaScript, chamando-o de JScript, em agosto de 1996. A Netscape então colaborou com a ECMA International para padronizar o JavaScript, resultando na especificação conhecida como ECMAScript, sob a ECMA-262. A versão mais recente, ES2020, foi lançada em junho de 2020. O JavaScript ganhou ainda mais popularidade com o advento do Node.js, um ambiente de execução JavaScript fora do navegador, criado usando o motor V8 JavaScript. Com Node.js, os desenvolvedores podem usar JavaScript para automatizar tarefas em computadores e criar servidores HTTP e WebSocket totalmente funcionais.."
     }
 ]
