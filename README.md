@@ -30,7 +30,8 @@ Objetivo:
 ### 💻 Resultado:
  - Acesse a lista de tarefas neste link [aqui](https://matheusjuda.github.io/tarefa-usabilidade/)!
 
-![Captura de tela 2024-04-04 163950](https://github.com/matheusjuda/tarefa-usabilidade/assets/114267214/e5961680-26a5-4792-aac7-698b8ac9bd0e)
+
+![Captura de tela 2024-04-15 195721](https://github.com/matheusjuda/tarefa-usabilidade/assets/114267214/631ef5ac-659d-49ae-b411-fd7b09040ee3)
 
 
 ##
